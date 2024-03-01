@@ -1,0 +1,1 @@
+{"version":3,"file":"useMyComposable.js","sourceRoot":"","sources":["useMyComposable.ts"],"names":[],"mappings":"AAAA,qCAAqC;AACrC,OAAO,EAAE,QAAQ,EAAE,MAAM,KAAK,CAAA;AAE9B,MAAM,CAAC,MAAM,eAAe,GAAG,GAAG,EAAE;IAClC,MAAM,gBAAgB,GAAG,QAAQ,CAAC;QAChC,KAAK,EAAE,4BAA4B;KACpC,CAAC,CAAA;IAEF,OAAO,gBAAgB,CAAA;AACzB,CAAC,CAAA"}
